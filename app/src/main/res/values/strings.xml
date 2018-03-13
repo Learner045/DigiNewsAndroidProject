@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">DigiNews</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_timeout">Ops! Your Connection Timed Out. Please Check Your Network Connection</string>
+    <string name="error_network">Network Error. Please Check Your Network Connection</string>
+    <string name="error_server">Something went wrong with the server. Please try again later.</string>
+    <string name="error_auth">Authentication Failed!</string>
+    <string name="error_parser">Ops!Data Received Was An Unreadable Mess</string>
+
+    <string-array name="nav_items">
+        <item>Favourites</item>
+        <item>About Us</item>
+        <item>Rate Us</item>
+        <item>Share</item>
+    </string-array>
+    <string name="Favourites">Favourites</string>
+    <string name="About_Us">About Us</string>
+    <string name="Rate_Us">Rate Us</string>
+    <string name="Share_">Share</string>
+    <string name="title_activity_news_details">NewsDetailsActivity</string>
+
+    <string name="no_url">Website Not Available</string>
+    <string name="title_activity_trial_button">TrialButton</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_favourite">FavouriteActivity</string>
+    <string name="title_activity_favourite_details">FavouriteDetailsActivity</string>
+
+    <string name="dialog_title">Delete this article?</string>
+    <string name="dialog_message">This article will be permanently removed from your Favourites</string>
+    <string name="Remove">Remove</string>
+
+    <string name="nothing_added_to_favourites">Nothing Has Been Added To Favourties Yet!</string>
+
+    <string name="connection_dialog_title">Unable to Fetch data</string>
+    <string name="connection_dialog_message">Please Check Your Network Connection!</string>
+    <string name="connection_dialog_positive_button">Ok</string>
+
+    <string-array name="category_array">
+        <item>General</item>
+        <item>Entertainment</item>
+        <item>Technology</item>
+        <item>Business</item>
+        <item>Sports</item>
+        <item>Science and Nature</item>
+        <item>Politics</item>
+        <item>Music</item>
+        <item>General</item>
+    </string-array>
+
+    <string name="not_avail">Not Avail.</string>
+
+    <string name="mission_statement">About Us\n\nOur mission is to encourage world to be more aware of what\'s going on around them and how the stories affect them. We want to deliver you great stories from legitimate sources. Whatever be your field of interest - Tech,Music,Business,Politics,Sports,Science and Nature,Everything, we have something for everyone. We hope to build a community of inspired readers.\n</string>
+
+    <string name="Time">Time</string>
+    <string name="USA_Today">USA Today</string>
+    <string name="The_Washington_Post">The Washington Post</string>
+    <string name="The_Times_Of_India">The Times Of India</string>
+    <string name="The_Telegraph">The Telegraph</string>
+    <string name="The_Huffington_Post">The Huffington Post</string>
+    <string name="The_Hindu">The Hindu</string>
+    <string name="The_Guardian">The Guardian</string>
+    <string name="Reuters">Reuters</string>
+    <string name="Newsweek">Newsweek</string>
+    <string name="New_York_Magazine">New York Magazine</string>
+    <string name="Mirror_Metro">Mirror Metro</string>
+    <string name="Independent">Independent</string>
+    <string name="CNN">CNN</string>
+    <string name="Reddit">Reddit</string>
+    <string name="BBC_News">BBC News</string>
+    <string name="Associated_Press">Associated Press</string>
+    <string name="Al_Jazeera_English">Al Jazeera English</string>
+    <string name="The_New_York_Times">The New York Times</string>
+
+
+    <string name="Hacker_News">Hacker News</string>
+    <string name="the_Verge">The Verge</string>
+    <string name="TechCrunch">TechCrunch</string>
+    <string name="Techradar">TechRadar</string>
+    <string name="Recode">Recode</string>
+    <string name="Engadget">Engadget</string>
+
+
+    <string name="ESPN">ESPN</string>
+    <string name="BBC_Sport">BBC Sport</string>
+    <string name="ESPN_Cricket_Info">ESPN Cricket Info</string>
+    <string name="Football_Italia">Football Italia</string>
+    <string name="FoxSports">FoxSports</string>
+    <string name="NFL_News">NFL News</string>
+    <string name="TalkSport">TalkSport</string>
+    <string name="The_Sport_Bible">The Sport Bible</string>
+
+
+    <string name="Buzzfeed">Buzzfeed</string>
+    <string name="Daily_Mail">Daily Mail</string>
+    <string name="Entertainment_Weekly">Entertainment Weekly</string>
+    <string name="Mashable">Mashable</string>
+
+
+    <string name="Breitbart_News">Breitbart News</string>
+    <string name="National_Geographic">National Geographic</string>
+    <string name="New_Scientist">New Scientist</string>
+    <string name="Mtv_News">Mtv News</string>
+
+    <string name="Business_Insider">Business Insider</string>
+    <string name="Financial_Times">Financial Times</string>
+    <string name="Fortune">Fortune</string>
+    <string name="The_Economist">The Economist</string>
+
+
+    <string-array name="science_array">
+    <item>@string/National_Geographic</item>
+    <item>@string/New_Scientist</item>
+    </string-array>
+
+    <string-array name="business_array">
+        <item>@string/Business_Insider</item>
+        <item>@string/Financial_Times</item>
+        <item>@string/Fortune</item>
+        <item>@string/The_Economist</item>
+    </string-array>
+
+    <string-array name="ent_array">
+    <item>@string/Buzzfeed</item>
+    <item>@string/Daily_Mail</item>
+    <item>@string/Entertainment_Weekly</item>
+    <item>@string/Mashable</item>
+    </string-array>
+
+    <string-array name="sports_array">
+        <item>@string/ESPN</item>
+        <item>@string/BBC_Sport</item>
+        <item>@string/ESPN_Cricket_Info</item>
+        <item>@string/Football_Italia</item>
+        <item>@string/FoxSports</item>
+        <item>@string/NFL_News</item>
+        <item>@string/TalkSport</item>
+        <item>@string/The_Sport_Bible</item>
+    </string-array>
+
+
+    <string-array name="general_array">
+        <item>@string/Time</item>
+        <item>@string/USA_Today</item>
+        <item>@string/The_Washington_Post</item>
+        <item>@string/The_Times_Of_India</item>
+        <item>@string/The_Telegraph</item>
+        <item>@string/The_Huffington_Post</item>
+        <item>@string/The_Hindu</item>
+        <item>@string/The_Guardian</item>
+        <item>@string/Reuters</item>
+        <item>@string/Reddit</item>
+        <item>@string/New_York_Magazine</item>
+        <item>@string/Newsweek</item>
+        <item>@string/Mirror_Metro</item>
+        <item>@string/Independent</item>
+        <item>@string/CNN</item>
+        <item>@string/BBC_News</item>
+        <item>@string/Associated_Press</item>
+        <item>@string/Al_Jazeera_English</item>
+        <item>@string/The_New_York_Times</item>
+    </string-array>
+
+    <string-array name="technology_array">
+    <item>@string/Hacker_News</item>
+    <item>@string/the_Verge</item>
+    <item>@string/Recode</item>
+    <item>@string/Engadget</item>
+    <item>@string/TechCrunch</item>
+    <item>@string/Techradar</item>
+    </string-array>
+
+
+</resources>

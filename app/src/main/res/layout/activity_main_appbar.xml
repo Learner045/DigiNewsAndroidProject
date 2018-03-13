@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar">
+    </include>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context="com.example.androidProject.news.MainActivity"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            >
+            <android.support.design.widget.TabLayout
+                android:id="@+id/activity_main_tabLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:tabMode="fixed"
+                />
+            <android.support.v4.view.ViewPager
+                android:id="@+id/activity_main_viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+
+        </LinearLayout>
+        <fragment
+            android:id="@+id/fragment_navigation_drawer"
+            android:layout_width="@dimen/nav_drawer_width"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            app:layout="@layout/fragment_navigation_drawer"
+            android:name="com.example.androidProject.DigiNews.NavigationDrawerFragment"
+            tools:layout="@layout/fragment_navigation_drawer" />
+
+    </android.support.v4.widget.DrawerLayout>
+
+
+
+
+
+
+</LinearLayout>

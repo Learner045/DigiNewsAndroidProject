@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidProject.DigiNews">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+
+    <application
+        android:name="com.example.androidProject.DigiNews.Network.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/digi_news_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.androidProject.DigiNews.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.androidProject.DigiNews.NewsDetailsActivity"
+            android:label="@string/title_activity_news_details" />
+
+        <activity
+            android:name="com.example.androidProject.DigiNews.ExploreActivity"
+            android:label="@string/title_activity_explore" />
+
+        <activity
+            android:name="com.example.androidProject.DigiNews.FavouriteActivity"
+            android:label="@string/title_activity_favourite" />
+
+        <activity
+            android:name="com.example.androidProject.DigiNews.FavouriteDetailsActivity"
+            android:label="@string/title_activity_favourite_details" />
+
+        <activity android:name="com.example.androidProject.DigiNews.AboutUs"
+            android:label="AboutUs" />
+
+    </application>
+
+</manifest>
