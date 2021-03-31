@@ -24,7 +24,7 @@ Project is created with:
 
 ## Snaps
         
-<img src="/ss/Screenshot_20180318-010838.png" width="300" title="Home Screen" hspace="20" vspace="20">  <img src="/ss/Screenshot_20180318-010908.png" width="300" title="Preference Screen" hspace="20" vspace="20">  <img src="/ss/Screenshot_20180318-010848.png" width="300" title="Side Drawer">
+<img src="/ss/Screenshot_20180318-010838.png" width="300" title="Home Screen" hspace="10" vspace="10">  <img src="/ss/Screenshot_20180318-010908.png" width="300" title="Preference Screen" hspace="10" vspace="10">  <img src="/ss/Screenshot_20180318-010848.png" width="300" title="Side Drawer">
 
 
 
