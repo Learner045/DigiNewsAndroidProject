@@ -24,6 +24,7 @@ Project is created with:
 
 ## Snaps
 
+|                    Home Screen                          |                     Preference Screen                    |                     Side Panel        
 <img src="/ss/Screenshot_20180318-010838.png" width="300"> <img src="/ss/Screenshot_20180318-010908.png" width="300"> <img src="/ss/Screenshot_20180318-010848.png" width="300">
 
 
