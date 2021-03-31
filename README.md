@@ -23,6 +23,7 @@ Project is created with:
 
 
 ## Snaps
+<img src="/master/ss/Screenshot_20180318-010838.png" width="200">
 ![Screenshot](../master/ss/Screenshot_20180318-010838.png =100x20)
 
 
