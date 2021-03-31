@@ -24,9 +24,9 @@ Project is created with:
 
 ## Snaps
 
-<img src="/ss/Screenshot_20180318-010838.png" width="250">
-<img src="/ss/Screenshot_20180318-010908.png" width="250">
-<img src="/ss/Screenshot_20180318-010848.png" width="250">
+<img src="/ss/Screenshot_20180318-010838.png" width="500">
+<img src="/ss/Screenshot_20180318-010908.png" width="500">
+<img src="/ss/Screenshot_20180318-010848.png" width="500">
 
 
 
